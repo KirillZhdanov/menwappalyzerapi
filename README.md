@@ -11,7 +11,7 @@ node app.js
 ## Usage
 
 ```http
-http://127.0.0.1:3000/?url=https://github.com/
+http://localhost:3000/?url=https://github.com/
 ```
 
 As response you should receive Json like
